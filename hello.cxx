@@ -11,6 +11,9 @@ int the_answer() {
     return 42;
 }
 
+/**
+ * Entry point
+ */
 int main()
 {
     std::printf("The answer is %d\n", the_answer());
