@@ -1,3 +1,6 @@
+/*
+** License and Copyright
+*/
 #include <cstdio>
 
 int the_answer() {
