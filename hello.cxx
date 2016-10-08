@@ -3,6 +3,10 @@
 */
 #include <cstdio>
 
+/**
+ * get the answer
+ * @return the answer
+ */
 int the_answer() {
     return 42;
 }
