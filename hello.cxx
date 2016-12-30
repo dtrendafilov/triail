@@ -1,5 +1,5 @@
 /*
-** License and Copyright
+** License and Copyright 2015 and beyond
 */
 #include <cstdio>
 
