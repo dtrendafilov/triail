@@ -16,6 +16,7 @@ int the_answer() {
  */
 int main()
 {
-    std::printf("The answer is %d\n", the_answer());
+    std::printf("The answer is %d\n. What was the question again?\n",
+            the_answer());
     return 0;
 }
