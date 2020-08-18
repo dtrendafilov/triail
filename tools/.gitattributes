@@ -2,4 +2,3 @@
 vital -export-ignore
 sub -export-ignore
 sub/vital -export-ignore
-* export-ignore
