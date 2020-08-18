@@ -1,2 +1,7 @@
+.gitattributes export-ignore
 tools export-ignore
+
 tools/vital -export-ignore
+
+README.md export-ignore
+README.md -export-ignore
